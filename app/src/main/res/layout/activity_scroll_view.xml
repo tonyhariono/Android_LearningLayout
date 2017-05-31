@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="id.co.imastudio.sinaulayout.ScrollViewActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Scroll View"
+            android:textColor="@android:color/holo_red_dark"
+            android:textStyle="bold"
+            android:typeface="monospace"
+            android:layout_weight="0.04"
+            style="@style/StyleJudul"
+            android:textAlignment="textStart"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Kota Semarang (Hanacaraka: ꦑꦸꦛꦯꦼꦩꦫꦁ) adalah ibukota Provinsi Jawa Tengah, Indonesia sekaligus kota metropolitan terbesar kelima di Indonesia sesudah Jakarta, Surabaya, Medan, dan Bandung.[2][3] Sebagai salah satu kota paling berkembang di Pulau Jawa, Kota Semarang mempunyai jumlah penduduk yang hampir mencapai 2 juta jiwa dan siang hari bisa mencapai 2,5 juta jiwa. Bahkan, Area Metropolitan Kedungsapur (Kendal, Demak, Ungaran Kabupaten Semarang, Kota Salatiga, dan Purwodadi Kabupaten Grobogan) dengan penduduk sekitar 6 juta jiwa, merupakan Wilayah Metropolis terpadat keempat, setelah Jabodetabek (Jakarta), Gerbangkertosusilo (Surabaya), dan Bandung Raya. Dalam beberapa tahun terakhir, perkembangan Semarang ditandai pula dengan munculnya beberapa gedung pencakar langit di beberapa sudut kota. Sayangnya, pesatnya jumlah penduduk membuat kemacetan lalu lintas di dalam Kota Semarang semakin macet. Kota Semarang dipimpin oleh wali kota Hendrar Prihadi, S.E, M.M dan wakil wali kota Ir. Hj. Hevearita Gunaryanti Rahayu. Kota ini terletak sekitar 558 km sebelah timur Jakarta, atau 312 km sebelah barat Surabaya, atau 621 km sebalah barat daya Banjarmasin (via udara).[4] Semarang berbatasan dengan Laut Jawa di utara, Kabupaten Demak di timur, Kabupaten Semarang di selatan, dan Kabupaten Kendal di barat.Luas Kota 373.67 km2. Daerah dataran rendah di Kota Semarang sangat sempit, yakni sekitar 4 kilometer dari garis pantai. Dataran rendah ini dikenal dengan sebutan kota bawah. Kawasan kota bawah seringkali dilanda banjir, dan di sejumlah kawasan, banjir ini disebabkan luapan air laut (rob). Di sebelah selatan merupakan dataran tinggi, yang dikenal dengan sebutan kota atas, di antaranya meliputi Kecamatan Candi, Mijen, Gunungpati, Tembalang dan Banyumanik. Pusat pertumbuhan di Semarang sebagai pusat aktivitas dan aglomerasi penduduk muncul menjadi kota kecil baru, seperti di Semarang bagian atas tumbuhnya daerah Banyumanik sebagai pusat aktivitas dan aglomerasi penduduk Kota Semarang bagian atas menjadikan daerah ini cukup padat. Fasilitas umum dan sosial yang mendukung aktivitas penduduk dalam bekerja maupun sebagai tempat tinggal juga telah terpenuhi. Banyumanik menjadi pusat pertumbuhan baru di Semarang bagian atas, dikarenakan munculnya aglomerasi perumahan di daerah ini. Dahulunya Banyumanik hanya merupakan daerah sepi tempat tinggal penduduk Semarang yang bekerja di Semarang bawah (hanya sebagai dormitory town). Namun saat ini daerah ini menjadi pusat aktivitas dan pertumbuhan baru di Kota Semarang, dengan dukungan infrastruktur jalan dan aksessibilitas yang terjangkau. Fasilitas perdagangan dan perumahan baru banyak bermunculan di daerah ini, seperti Carefour, Mall Banyumanik, Ada Swalayan, Perumahan Banyumanik, Perumahan Pucang Gading, dan fasilitas pendidikan baik negeri maupun swasta, seperti Undip, Polines, Unika, dll, dengan dukungan akses jalan tol dan terminal moda yang memperlancar transportasi. Cepatnya pertumbuhan di daerah ini dikarenakan kondisi lahan di Semarang bawah sering terkena bencana rob banjir." />
+    </LinearLayout>
+</ScrollView>

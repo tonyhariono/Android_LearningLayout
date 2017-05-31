@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="id.co.imastudio.sinaulayout.MenuActivity">
+
+    <TextView
+        android:id="@+id/textView3"
+        style="@style/StyleJudul"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Menu Utama"
+        android:textColor="@color/colorAccent" />
+
+    <Button
+        android:id="@+id/btnLinear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:padding="20dp"
+        android:text="Linear Layout"
+        android:textColor="@android:color/holo_green_dark" />
+
+    <Button
+        android:id="@+id/btnRelative"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:padding="20dp"
+        android:text="RELATIVE LAYOUT"
+        android:textColor="@android:color/holo_green_dark" />
+
+    <Button
+        android:id="@+id/btnFrame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:padding="20dp"
+        android:text="FRAME LAYOUT"
+        android:textColor="@android:color/holo_green_dark" />
+
+    <Button
+        android:id="@+id/btnTable"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:padding="20dp"
+        android:text="TABLE LAYOUT"
+        android:textColor="@android:color/holo_green_dark" />
+
+    <Button
+        android:id="@+id/btnConstraint"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:padding="20dp"
+        android:text="CONSTRAINT LAYOUT"
+        android:textColor="@android:color/holo_green_dark" />
+
+    <Button
+        android:id="@+id/btnScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:padding="20dp"
+        android:text="scroll view LAYOUT"
+        android:textColor="@android:color/holo_green_dark" />
+</LinearLayout>
